@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/Mayshro/Seoul-Bike-Rental-LinearRegression-Updated)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/4dmuniz)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/Mayshro/Bank-Marketing-Analysis-LogisticRegression-Updated)
+[Prediction of user interest using bank data](https://github.com/4dmuniz)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -37,24 +37,7 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Amazon Fine Food Analysis using NLP](https://github.com/Mayshro/Amazon-fine-food-review-SentimentAnalysis--NLP-updated)
-
-<img src="images/amazon.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, TfidVectorizer
-
-**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods .
-
-**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) 
-
-[**AUC** Score of 97%](https://github.com/Mayshro](https://github.com/Mayshro/Amazon-fine-food-review-SentimentAnalysis--NLP-updated)
-- Given a review, it is determined whether the review is positive or negative.
-- Used NLP for this approach.
-- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
-
-***
-
-[Implementing Deep Neutral Network with Keras for Plant diseases classification and recognition](https://github.com/Mayshro/Handwirtten-digits-Recognizer-Deep-Learning-Updated)
+[Implementing Deep Neutral Network with Keras for Plant diseases classification and recognition](https://github.com/4dmuniz)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 

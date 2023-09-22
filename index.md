@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-- **Quantifiable result:** We could predict the Bike rental demand resulting in 56% accuracy .
+- **Quantifiable result:** We could predict the Bike rental demand resulting in 70%+ accuracy .
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -37,13 +37,13 @@ The classification goal is to predict if the client will subscribe a term deposi
 
 ***
 
-[Implementing Deep Neutral Network with Keras for Plant diseases classification and recognition](https://github.com/4dmuniz)
+[Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/4dmuniz)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
 <b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for Plant diseases classification and recognition
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for Handwritten Digits recognition.
 
 <b>Quantifiable Results:</b>
 

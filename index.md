@@ -6,7 +6,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ## [Examining the Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/yomibankole01/Seoul_BikeSharingDemand_Prediction)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/seoul.png?raw=true"/>
 
 - **Skills Used:** Python, Pandas, SKlearn
   

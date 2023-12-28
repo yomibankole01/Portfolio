@@ -2,7 +2,7 @@
 
 Welcome! This portfolio showcases some of my impactful Data Science projects.
 
-Portfolio LIVE Webpage: [LINK]()
+Portfolio LIVE Webpage: [LINK](https://yomibankole01.github.io/Portfolio)
 
 ## [Bike Rentals Prediction](https://github.com/yomibankole01/Seoul_BikeSharingDemand_Prediction)
 

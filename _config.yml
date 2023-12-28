@@ -1,12 +1,10 @@
-title: Name  # your name (or website title) here
+title: Bankole Abayomi  # your name (or website title) here
 logo: "/images/PHOTO.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Python Connoisseur
-  <br><br>
   Data Analyst
   <br><br>
-  <a href="https://www.linkedin.com">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yomibankole">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

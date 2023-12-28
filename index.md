@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ***
 
-[Examining the Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/yomibankole01/Seoul_BikeSharingDemand_Prediction)
+## [Examining the Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/yomibankole01/Seoul_BikeSharingDemand_Prediction)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -22,7 +22,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ***
 
-[Amazon Shipping Analytics - Tableau Dashbiard](https://github.com/yomibankole01/AmazonShippingAnalytics_TableauDashboard)
+## [Amazon Shipping Analytics - Tableau Dashbiard](https://github.com/yomibankole01/AmazonShippingAnalytics_TableauDashboard)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
@@ -32,7 +32,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ***
 
-[Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/yomibankole01/MNIST_Handwriting_Recognition_CNN)
+## [Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/yomibankole01/MNIST_Handwriting_Recognition_CNN)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 

@@ -34,7 +34,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ## [Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/yomibankole01/MNIST_Handwriting_Recognition_CNN)
 
- <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
+ <img src="images/mnist.png?raw=true"/>
 
 - **Skills Used:** Matplotlib, NumPy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
 - **Project Objective:** Implementation of a Deep Neural Network with Keras for recognizing handwritten digits in the MNIST dataset.

@@ -1,61 +1,55 @@
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+Welcome to my Data Science Portfolio! Below are some of my noteworthy projects where I have explored various machine-learning algorithms across different datasets. Feel free to reach out to me for further insights into my experiences with these projects.
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/4dmuniz)
+[Examining the Effect of Environmental Factors and Weather on Bike Rentals](https://github.com/yomibankole01/Seoul_BikeSharingDemand_Prediction)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-- **Skills used:** Python, Pandas, SKlearn
+- **Skills Used:** Python, Pandas, SKlearn
+  
+- **Project Objective:** Predicting bike rental demand based on weather and seasonal factors to proactively manage resources and enhance bike utilization.
+  
+- **Quantifiable Result:** Achieved a prediction accuracy of over 70%.
 
-- **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+### Key Steps:
 
-- **Quantifiable result:** We could predict the Bike rental demand resulting in 70%+ accuracy .
-
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
+1. Applied Linear Regression to forecast the number of bikes rented in Seoul.
+2. Processed categorical variables by encoding them using Sklearn.
+3. Achieved high prediction accuracy through iterative improvements in the multiple linear regression model.
 
 ***
 
-[Prediction of user interest using bank data](https://github.com/4dmuniz)
+[Amazon Shipping Analytics - Tableau Dashbiard](https://github.com/yomibankole01/AmazonShippingAnalytics_TableauDashboard)
 
 <img src="images/bank image.jpeg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
-The classification goal is to predict if the client will subscribe a term deposit (variable y).
-
-**Quantifiable result:** We could Classify the type of tumor resulting in 87% accuracy using Logistic Regression and SMOTE .
-
-- in this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
-- The classification goal is to predict if the client will subscribe a term deposit (variable y).
+- **Skills Used:** Tableau
+  
+- **Project Objective:** Developed an interactive Tableau dashboard for business analysis using real-world data related to Amazon shipping schedules.
 
 ***
 
-[Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/4dmuniz)
+[Implementing Deep Neutral Network with Keras MNIST Handwritten Digits recognition](https://github.com/yomibankole01/MNIST_Handwriting_Recognition_CNN)
 
  <img src="images/Neural-Network-diagram.jpeg?raw=true"/>
 
-<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
-
-<b>Project Objective:</b> Implementing Deep Neural Network with Keras for Handwritten Digits recognition.
-
-<b>Quantifiable Results:</b>
-
+- **Skills Used:** Matplotlib, NumPy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+- **Project Objective:** Implementation of a Deep Neural Network with Keras for recognizing handwritten digits in the MNIST dataset.
+- **Quantifiable Results:**
   - Loss: 0.1261 - Accuracy: 0.9656
-  - Load the data
-  - Initial data indagation
-  - Initial EDA
-  - Data Prepping
-  - Model contruction
-  - Model eval
-  - Model eval metrics
-  - Improved the model
-  - Improved the depth of model
+
+### Project Workflow:
+
+1. Loaded and explored the data.
+2. Conducted initial exploratory data analysis (EDA).
+3. Prepared and preprocessed the data.
+4. Constructed the neural network model.
+5. Evaluated the model's performance.
+6. Enhanced the model by adjusting its depth.
 
 ***
+
+Feel free to explore each project for more details and code implementations. If you have any questions or would like to discuss these projects further, don't hesitate to reach out! I'm open to collaboration and feedback.

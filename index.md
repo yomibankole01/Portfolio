@@ -22,7 +22,7 @@ Welcome to my Data Science Portfolio! Below are some of my noteworthy projects w
 
 ***
 
-## [Amazon Shipping Analytics - Tableau Dashbiard](https://github.com/yomibankole01/AmazonShippingAnalytics_TableauDashboard)
+## [Amazon Shipping Analytics - Tableau Dashboard](https://github.com/yomibankole01/AmazonShippingAnalytics_TableauDashboard)
 
 <img src="images/ant.png?raw=true"/>
 
